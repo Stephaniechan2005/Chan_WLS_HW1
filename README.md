@@ -2,7 +2,7 @@
  
 HW1
 This is the repo for the hw1
-## Wing Lam Stephanie Chan & 
+## Wing Lam Stephanie Chan & Kyuri Park
 Wing Lam Stephanie Chan
 ## Hobbies
 1.  Podcast – I am podcaster. I have a channel call Tearoom podcast.
