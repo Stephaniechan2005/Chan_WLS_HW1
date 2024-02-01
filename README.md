@@ -46,5 +46,5 @@ I am from Seoul, South Korea. Seoul is full of fun! I promise you will like bein
 ## Favourite Food
 My favourite dish is Pizza
 ## Skills
-Playing piano
-Playing video games
+1. Playing piano
+2. Playing video games
